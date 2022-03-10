@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Olá ^_^🤚, me chamo Bernardo Michels
 
 Cursando `Analise e desenvolvimento de sistemas` 💻
