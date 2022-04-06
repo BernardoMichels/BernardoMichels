@@ -16,7 +16,7 @@ Estou a procura de estágio na área de tecnologia💾
   <img align="center" alt="Ber-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Ber-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Ber-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="Ber-gif-picrew" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/716759017531244554/961246803049717800/Webp.net-gifmaker.gif">
 </div>
  
  ## 
