@@ -29,4 +29,4 @@ Estou a procura de estágio na área de tecnologia💾
  
  ##
  
- ![Snake animation] (https://github.com/BernardoMichels)
+ ![snake animation](https://github.com/BernardoMichels/BernardoMichels/blob/output/github-contribution-grid-snake.svg)
