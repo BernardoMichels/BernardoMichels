@@ -16,6 +16,7 @@ Estou a procura de estágio na área de tecnologia💾
   <img align="center" alt="Ber-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Ber-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Ber-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img aligh="center" alt="Ber-Del" height="30" width="40" src="https://cdn.discordapp.com/attachments/954546570332872724/980969674739154995/delphi.png" >
   <img align="right" alt="Ber-gif-picrew" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/716759017531244554/961246803049717800/Webp.net-gifmaker.gif">
 </div>
  
